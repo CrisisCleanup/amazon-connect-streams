@@ -733,7 +733,8 @@
             "endpoint": {
               "shape": "Se"
             },
-            "queueARN": {}
+            "queueARN": {},
+            "attributes": {}
           }
         },
         "output": {
